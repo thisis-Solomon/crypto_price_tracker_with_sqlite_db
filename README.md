@@ -1,4 +1,4 @@
-# Challenge Day 29: Store & Search Crypto Prices in SQLite
+# Challenge Day 30: Store & Search Crypto Prices in SQLite
 
 Goal:
 
